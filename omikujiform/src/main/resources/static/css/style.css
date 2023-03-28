@@ -1,0 +1,26 @@
+.content{
+	margin: 0 auto;
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+}
+.form{
+	padding: 10px;
+}
+.omikuji {
+	margin: 0 auto;
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	background-color: lightblue;
+	font-size: 2em;
+}
+.title{
+	margin-bottom: 25px;
+	text-align: center;
+}
+.homelink{
+	margin-top: 25px;
+	display:flex;
+	justify-content: center;
+}
